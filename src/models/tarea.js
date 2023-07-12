@@ -8,7 +8,6 @@ const tareaSchema = new Schema({
         required: true
     }
 });
-
 const Tarea = model("producto", tareaSchema)
 
 export default Tarea
