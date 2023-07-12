@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Backend ejercicio 1 tp backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tareas, backend, mongoDB"],
+  "author": "Maximiliano Vega",
+  "license": "ISC"
+}
